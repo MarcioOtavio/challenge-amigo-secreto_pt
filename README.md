@@ -1,7 +1,8 @@
 # **Amigo Secreto - A magia do sorteio digital!**
 
 🎁✨ **Bem-vindo ao Amigo Secreto Digital!** ✨🎁
-![image](https://github.com/user-attachments/assets/c106cf1d-a81b-4449-a1c2-2fda4ff3567d)
+![image](https://github.com/user-attachments/assets/c106cf1d-a81b-4449-a1c2-2fda4ff3567d) 
+
 
 
 Você já ficou horas tentando fazer aquele sorteio de amigo secreto tradicional, e no final, todo mundo acaba esquecendo quem tirou quem? Agora, seus problemas acabaram! Com **Amigo Secreto Digital**, você pode fazer o sorteio de uma forma rápida, divertida e interativa, sem complicação e com muito mais estilo! 😎
